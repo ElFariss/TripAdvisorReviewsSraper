@@ -1,4 +1,4 @@
-his project is for educational purposes only. Use responsibly.
+This project is for educational purposes only. Use responsibly.
 
 # TripAdvisor Reviews Scraper
 
